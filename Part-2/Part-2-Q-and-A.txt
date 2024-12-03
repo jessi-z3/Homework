@@ -1,0 +1,39 @@
+1. What does the man command do? How do you scroll and exit?
+- The man command opens the manual for the command, which has definitions and flags. To scroll, use your arrow keys. Press 'Q' if you wish to exit the manual.
+
+2. Look at the man page for ls. What does the -l flag do? What does the -a flag do?
+- The ls command flags '-l' and '-a' have the following results:
+	- '-l' flag lists details about the files or folders.
+	- '-a' flag lists all files, even hidden ones. 
+
+3. How do you jump between words in the terminal?
+- To jump between words in Terminal, hold the Command key and press the left and right arrow keys.
+
+4. How do you get to the end of a line in terminal?
+- To get to the end of a line in Terminal, hold the Control key and press the letter 'e'.
+
+5. How do you move your cursor to the beginning in terminal?
+- To get to the beginning of a line in Terminal, hold the Control key and press the letter 'a'.
+
+6. How do you delete a word (without pressing backspace multiple times) in terminal?
+- Press Control and the letter 'w' to delete a word in Terminal where your cursor is.
+
+7. What is the difference between a terminal and shell?
+- A shell is a command-line interpreter that provides an interface for users to interact with the operating system by executing commands and scripts.
+- Terminal is the application that provides access to a shell, allowing users to interact with the operating system through commands and scripts.
+
+8. What is an absolute path?
+- An absolute path is the full path from the root directory.
+
+9. What is a relative path?
+- A relative path is path to the desired directory from your current directory.
+
+10. What is a flag? Give three examples of flags you have used.
+- A flag modifies the behavior of the command.
+	- I've used the -rf to force deletion in recursion of a folder with contents.
+	- I've used the -h  on the git command to get a list of common commands.
+	- I've used the -m on the git commit command to add a commit message inline.
+
+11. What do the r and f flags do with the rm command?
+- The '-r' flag recursively deletes items meaning it removes all of the contents.
+- The '-f' flag forces the action of the command it's used with.
