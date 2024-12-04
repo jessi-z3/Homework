@@ -1,0 +1,2 @@
+This is the text from the first commit in the merge conflict.
+This is the text from the second commit in the merge conflict.
