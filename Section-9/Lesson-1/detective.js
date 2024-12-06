@@ -1,6 +1,3 @@
-// try operationSucess { +13 days vacay } catch { +1 day vacay }
-// finally { +3 days vacay }
-
 function mysteryOperation (){
 	const outcome = Math.random(); // Generates a random number between 0 and 1.
 
@@ -26,5 +23,3 @@ for (let i = 0; i < totalMissions; i++){
 		vacationDays += 3;
 	}
 }
-
-console.log(vacationDays);
